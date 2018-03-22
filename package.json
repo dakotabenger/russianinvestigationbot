@@ -1,0 +1,23 @@
+{
+  "name": "russianinvestigationbot",
+  "version": "1.0.0",
+  "description": "Bot for reddit to repost PoppingKREAM posts.",
+  "main": "app.js",
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-google": "^0.8.0"
+  },
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "russia"
+  ],
+  "author": "Dak",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "snoostorm": "^0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
